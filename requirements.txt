@@ -1,1 +1,4 @@
+pandas~=1.5.3
 tslearn~=0.5.3.2
+matplotlib~=3.7.0
+pytictoc~=1.5.2
